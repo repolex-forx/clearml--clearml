@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/clearml/clearml/commit/8738571cdce186ec43d1ab14de385f03ec1999f3",
       "git:hexsha": "8738571cdce186ec43d1ab14de385f03ec1999f3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/clearml/clearml/commit/af5a12ae8dd742b98a433caed6650489724086db",
